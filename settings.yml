@@ -1,0 +1,6 @@
+memory:
+  bufferSize: 1000000
+  maxMem: 1000000
+  fileSize: 5000000
+
+fileName: large-file.txt
